@@ -1,0 +1,16 @@
+{
+  "model_type": "RandomForestClassifier",
+  "features": [
+    "face_size",
+    "eye_count",
+    "position_score",
+    "brightness",
+    "contrast"
+  ],
+  "classes": [
+    "disengaged",
+    "engaged"
+  ],
+  "trained_date": "2025-10-04T14:59:34.808563",
+  "accuracy": "Synthetic training data"
+}

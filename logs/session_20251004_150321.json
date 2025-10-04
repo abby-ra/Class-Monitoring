@@ -1,0 +1,950 @@
+{
+  "session_summary": {
+    "duration_seconds": 31.749684,
+    "total_readings": 50,
+    "engagement_rate": 28.000000000000004,
+    "partial_engagement_rate": 26.0,
+    "total_alerts": 55,
+    "session_start": "2025-10-04T15:02:49.285486",
+    "integration_info": {
+      "config_loaded": true,
+      "ml_available": true,
+      "utils_available": true,
+      "realtime_available": false
+    }
+  },
+  "engagement_history": [
+    {
+      "timestamp": "2025-10-04T15:03:06.205081",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:06.458958",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:06.685352",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:06.917429",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:07.151783",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:07.403096",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:07.670556",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:07.938557",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:08.223201",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:08.535496",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:08.857515",
+      "engagement": "engaged",
+      "confidence": 0.8462565104166666,
+      "details": {
+        "face_count": 2,
+        "eye_count": 2,
+        "position_score": 0.759765625,
+        "engagement_score": 0.8462565104166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:09.175001",
+      "engagement": "engaged",
+      "confidence": 0.8228125,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.7953125,
+        "engagement_score": 0.8228125,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:09.573636",
+      "engagement": "engaged",
+      "confidence": 0.806875,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.821875,
+        "engagement_score": 0.806875,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:09.934564",
+      "engagement": "engaged",
+      "confidence": 0.8087500000000001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.81875,
+        "engagement_score": 0.8087500000000001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:10.256447",
+      "engagement": "engaged",
+      "confidence": 0.8045312499999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.82578125,
+        "engagement_score": 0.8045312499999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:10.554050",
+      "engagement": "engaged",
+      "confidence": 0.8265625000000001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.7890625,
+        "engagement_score": 0.8265625000000001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:10.937366",
+      "engagement": "engaged",
+      "confidence": 0.83734375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.77109375,
+        "engagement_score": 0.83734375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:11.284430",
+      "engagement": "engaged",
+      "confidence": 0.8434375000000001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.7609375,
+        "engagement_score": 0.8434375000000001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:11.600562",
+      "engagement": "engaged",
+      "confidence": 0.84203125,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.76328125,
+        "engagement_score": 0.84203125,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:11.924067",
+      "engagement": "partially_engaged",
+      "confidence": 0.59109375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.76484375,
+        "engagement_score": 0.59109375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:12.281390",
+      "engagement": "partially_engaged",
+      "confidence": 0.59109375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.76484375,
+        "engagement_score": 0.59109375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:12.623662",
+      "engagement": "engaged",
+      "confidence": 0.84203125,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.76328125,
+        "engagement_score": 0.84203125,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:12.940938",
+      "engagement": "partially_engaged",
+      "confidence": 0.5901562499999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.76640625,
+        "engagement_score": 0.5901562499999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:13.267642",
+      "engagement": "engaged",
+      "confidence": 0.8415625,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.7640625,
+        "engagement_score": 0.8415625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:13.599774",
+      "engagement": "partially_engaged",
+      "confidence": 0.5896874999999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.7671875,
+        "engagement_score": 0.5896874999999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:13.941547",
+      "engagement": "engaged",
+      "confidence": 0.8401562499999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.76640625,
+        "engagement_score": 0.8401562499999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:14.273160",
+      "engagement": "partially_engaged",
+      "confidence": 0.5915625,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.7640625,
+        "engagement_score": 0.5915625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:14.567958",
+      "engagement": "engaged",
+      "confidence": 0.84109375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.76484375,
+        "engagement_score": 0.84109375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:14.858258",
+      "engagement": "partially_engaged",
+      "confidence": 0.59109375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.76484375,
+        "engagement_score": 0.59109375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:15.172283",
+      "engagement": "partially_engaged",
+      "confidence": 0.5896874999999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.7671875,
+        "engagement_score": 0.5896874999999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:15.501082",
+      "engagement": "partially_engaged",
+      "confidence": 0.590625,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.765625,
+        "engagement_score": 0.590625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:15.833243",
+      "engagement": "partially_engaged",
+      "confidence": 0.5901562499999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.76640625,
+        "engagement_score": 0.5901562499999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:16.133068",
+      "engagement": "partially_engaged",
+      "confidence": 0.5901562499999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.76640625,
+        "engagement_score": 0.5901562499999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:16.450932",
+      "engagement": "partially_engaged",
+      "confidence": 0.5901562499999999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.76640625,
+        "engagement_score": 0.5901562499999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:16.741545",
+      "engagement": "partially_engaged",
+      "confidence": 0.5915625,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.7640625,
+        "engagement_score": 0.5915625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:17.066081",
+      "engagement": "engaged",
+      "confidence": 0.840625,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.765625,
+        "engagement_score": 0.840625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:17.392453",
+      "engagement": "partially_engaged",
+      "confidence": 0.33875,
+      "details": {
+        "face_count": 1,
+        "eye_count": 0,
+        "position_score": 0.76875,
+        "engagement_score": 0.33875,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:17.692372",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:17.938554",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:18.203894",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:18.504450",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:18.807413",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:19.132406",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:19.449663",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:19.723295",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:19.951334",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:20.206397",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:20.502173",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:20.787255",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-04T15:03:21.035170",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    }
+  ],
+  "alerts": [
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:06.205081",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:06.205081",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:06.458958",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:06.458958",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:06.685352",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:06.685352",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:06.917429",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:06.917429",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:07.151783",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:07.151783",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:07.403096",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:07.403096",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:07.670556",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:07.670556",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:07.938557",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:07.938557",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:07.938557",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:08.223201",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:08.223201",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:08.223201",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:08.535496",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:08.535496",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:08.535496",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:17.692372",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:17.692372",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:17.938554",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:17.938554",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:18.203894",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:18.203894",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:18.504450",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:18.504450",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:18.807413",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:18.807413",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:19.132406",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:19.132406",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:19.449663",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:19.449663",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:19.723295",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:19.723295",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:19.723295",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:19.951334",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:19.951334",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:19.951334",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:20.206397",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:20.206397",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:20.206397",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:20.502173",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:20.502173",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:20.502173",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:20.787255",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:20.787255",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:20.787255",
+      "priority": "low"
+    },
+    {
+      "type": "DISENGAGED",
+      "message": "\ud83d\udd34 Student appears disengaged",
+      "timestamp": "2025-10-04T15:03:21.035170",
+      "priority": "high"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-04T15:03:21.035170",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-04T15:03:21.035170",
+      "priority": "low"
+    }
+  ]
+}
