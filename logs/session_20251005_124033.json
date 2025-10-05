@@ -1,0 +1,644 @@
+{
+  "session_summary": {
+    "duration_seconds": 33.363985,
+    "total_readings": 50,
+    "engagement_rate": 92.0,
+    "partial_engagement_rate": 4.0,
+    "total_alerts": 4,
+    "session_start": "2025-10-05T12:39:59.772909",
+    "integration_info": {
+      "config_loaded": true,
+      "ml_available": true,
+      "utils_available": true,
+      "realtime_available": false
+    }
+  },
+  "engagement_history": [
+    {
+      "timestamp": "2025-10-05T12:40:18.249420",
+      "engagement": "engaged",
+      "confidence": 0.7971874999999999,
+      "details": {
+        "face_count": 2,
+        "eye_count": 4,
+        "position_score": 0.426171875,
+        "engagement_score": 0.7971874999999999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:18.604162",
+      "engagement": "engaged",
+      "confidence": 0.841484375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.54375,
+        "engagement_score": 0.841484375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:18.903603",
+      "engagement": "engaged",
+      "confidence": 0.8546940104166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.55234375,
+        "engagement_score": 0.8546940104166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:19.188382",
+      "engagement": "engaged",
+      "confidence": 0.8470377604166667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.56015625,
+        "engagement_score": 0.8470377604166667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:19.463569",
+      "engagement": "engaged",
+      "confidence": 0.8479752604166667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.57890625,
+        "engagement_score": 0.8479752604166667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:19.739750",
+      "engagement": "engaged",
+      "confidence": 0.8489127604166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.57734375,
+        "engagement_score": 0.8489127604166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:20.015783",
+      "engagement": "engaged",
+      "confidence": 0.8514127604166667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.56796875,
+        "engagement_score": 0.8514127604166667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:20.296242",
+      "engagement": "engaged",
+      "confidence": 0.855546875,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5484375,
+        "engagement_score": 0.855546875,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:20.584030",
+      "engagement": "engaged",
+      "confidence": 0.86,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.55625,
+        "engagement_score": 0.86,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:20.831647",
+      "engagement": "engaged",
+      "confidence": 0.8393815104166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.56328125,
+        "engagement_score": 0.8393815104166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:21.120954",
+      "engagement": "partially_engaged",
+      "confidence": 0.5959375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 1,
+        "position_score": 0.5796875,
+        "engagement_score": 0.5959375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:21.427475",
+      "engagement": "engaged",
+      "confidence": 0.8372135416666667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5890625,
+        "engagement_score": 0.8372135416666667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:21.717764",
+      "engagement": "engaged",
+      "confidence": 0.84177734375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.59453125,
+        "engagement_score": 0.84177734375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:22.001390",
+      "engagement": "engaged",
+      "confidence": 0.8445377604166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.60078125,
+        "engagement_score": 0.8445377604166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:22.287992",
+      "engagement": "engaged",
+      "confidence": 0.8485416666666666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5859375,
+        "engagement_score": 0.8485416666666666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:22.571702",
+      "engagement": "engaged",
+      "confidence": 0.8684375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.575,
+        "engagement_score": 0.8684375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:22.879984",
+      "engagement": "engaged",
+      "confidence": 0.8997916666666665,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.534375,
+        "engagement_score": 0.8997916666666665,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:23.180364",
+      "engagement": "engaged",
+      "confidence": 0.9451627604166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.50546875,
+        "engagement_score": 0.9451627604166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:23.519140",
+      "engagement": "engaged",
+      "confidence": 0.95,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.47109375,
+        "engagement_score": 0.98265625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:23.815904",
+      "engagement": "engaged",
+      "confidence": 0.9134960937500001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.43515625,
+        "engagement_score": 0.9134960937500001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:24.122947",
+      "engagement": "engaged",
+      "confidence": 0.9048502604166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.42734375,
+        "engagement_score": 0.9048502604166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:24.446792",
+      "engagement": "engaged",
+      "confidence": 0.9073502604166668,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.45078125,
+        "engagement_score": 0.9073502604166668,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:24.746425",
+      "engagement": "engaged",
+      "confidence": 0.946484375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5,
+        "engagement_score": 0.946484375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:25.066554",
+      "engagement": "engaged",
+      "confidence": 0.924921875,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5359375,
+        "engagement_score": 0.924921875,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:25.386823",
+      "engagement": "engaged",
+      "confidence": 0.9447135416666668,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5296875,
+        "engagement_score": 0.9447135416666668,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:25.724930",
+      "engagement": "engaged",
+      "confidence": 0.9316666666666666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.53125,
+        "engagement_score": 0.9316666666666666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:26.001184",
+      "engagement": "engaged",
+      "confidence": 0.9359375000000001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5375,
+        "engagement_score": 0.9359375000000001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:26.328654",
+      "engagement": "engaged",
+      "confidence": 0.9232291666666667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5453125,
+        "engagement_score": 0.9232291666666667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:26.621167",
+      "engagement": "engaged",
+      "confidence": 0.9328190104166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.54609375,
+        "engagement_score": 0.9328190104166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:27.015191",
+      "engagement": "engaged",
+      "confidence": 0.9278190104166668,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.54765625,
+        "engagement_score": 0.9278190104166668,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:27.369777",
+      "engagement": "engaged",
+      "confidence": 0.9290690104166667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.55234375,
+        "engagement_score": 0.9290690104166667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:27.729497",
+      "engagement": "engaged",
+      "confidence": 0.9238541666666666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.53125,
+        "engagement_score": 0.9238541666666666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:28.054680",
+      "engagement": "engaged",
+      "confidence": 0.9112565104166666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.52421875,
+        "engagement_score": 0.9112565104166666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:28.354201",
+      "engagement": "engaged",
+      "confidence": 0.9172916666666666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5171875,
+        "engagement_score": 0.9172916666666666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:28.688511",
+      "engagement": "engaged",
+      "confidence": 0.9182291666666667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.515625,
+        "engagement_score": 0.9182291666666667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:28.997920",
+      "engagement": "engaged",
+      "confidence": 0.9117968750000001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5203125,
+        "engagement_score": 0.9117968750000001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:29.330279",
+      "engagement": "engaged",
+      "confidence": 0.91021484375,
+      "details": {
+        "face_count": 1,
+        "eye_count": 3,
+        "position_score": 0.53203125,
+        "engagement_score": 0.91021484375,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:29.667816",
+      "engagement": "engaged",
+      "confidence": 0.9139648437499999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.54453125,
+        "engagement_score": 0.9139648437499999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:29.991963",
+      "engagement": "engaged",
+      "confidence": 0.9149023437499999,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.54296875,
+        "engagement_score": 0.9149023437499999,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:30.304693",
+      "engagement": "engaged",
+      "confidence": 0.903125,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.553125,
+        "engagement_score": 0.903125,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:30.640661",
+      "engagement": "engaged",
+      "confidence": 0.9074023437500001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.55546875,
+        "engagement_score": 0.9074023437500001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:30.946132",
+      "engagement": "engaged",
+      "confidence": 0.8961523437500001,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.55546875,
+        "engagement_score": 0.8961523437500001,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:31.235169",
+      "engagement": "engaged",
+      "confidence": 0.9040625,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5515625,
+        "engagement_score": 0.9040625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:31.513251",
+      "engagement": "engaged",
+      "confidence": 0.9107291666666666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.553125,
+        "engagement_score": 0.9107291666666666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:31.797010",
+      "engagement": "engaged",
+      "confidence": 0.903125,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.553125,
+        "engagement_score": 0.903125,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:32.082349",
+      "engagement": "engaged",
+      "confidence": 0.9040625,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.5515625,
+        "engagement_score": 0.9040625,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:32.376377",
+      "engagement": "engaged",
+      "confidence": 0.9112565104166667,
+      "details": {
+        "face_count": 1,
+        "eye_count": 2,
+        "position_score": 0.55546875,
+        "engagement_score": 0.9112565104166667,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:32.641344",
+      "engagement": "partially_engaged",
+      "confidence": 0.36860026041666666,
+      "details": {
+        "face_count": 1,
+        "eye_count": 0,
+        "position_score": 0.49921875,
+        "engagement_score": 0.36860026041666666,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:32.898991",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    },
+    {
+      "timestamp": "2025-10-05T12:40:33.130881",
+      "engagement": "disengaged",
+      "confidence": 0.1,
+      "details": {
+        "face_count": 0,
+        "eye_count": 0,
+        "position_score": 0.0,
+        "engagement_score": 0.0,
+        "detection_method": "opencv"
+      }
+    }
+  ],
+  "alerts": [
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-05T12:40:32.898991",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-05T12:40:32.898991",
+      "priority": "low"
+    },
+    {
+      "type": "NO_STUDENT",
+      "message": "\ud83d\udc64 No student detected",
+      "timestamp": "2025-10-05T12:40:33.130881",
+      "priority": "medium"
+    },
+    {
+      "type": "LOW_CONFIDENCE",
+      "message": "\ud83d\udcca Detection confidence low: 0.10",
+      "timestamp": "2025-10-05T12:40:33.130881",
+      "priority": "low"
+    }
+  ]
+}
